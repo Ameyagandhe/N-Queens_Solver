@@ -12,7 +12,7 @@ The Minimum Remaining Values (MRV) heuristic is a variable ordering strategy tha
 ### 4. LCV Heuristic: 
 The Least Constraining Value (LCV) heuristic is a value ordering strategy that sorts the possible column placements based on the number of conflicts they cause in the remaining rows, prioritizing the least constraining placements. [n_queens_lcv.py](https://github.com/Ameyagandhe/INFO_550_FINAL_PROJECT/blob/main/n_queens_lcv.py.ipynb)
 ### 5. Local Search: 
-A stochastic search algorithm that starts with a random placement of queens and iteratively improves the solution by swapping queens' positions within the same column to minimize the number of conflicts. [n_queens_local_search.py] 
+A stochastic search algorithm that starts with a random placement of queens and iteratively improves the solution by swapping queens' positions within the same column to minimize the number of conflicts. [n_queens_local_search.py](https://github.com/Ameyagandhe/INFO_550_FINAL_PROJECT/blob/main/n_queens_local_search.py.ipynb)
 ## Usage
 To run the algorithms, first clone the repository and navigate to the project folder:
 

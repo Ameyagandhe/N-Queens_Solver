@@ -1,4 +1,3 @@
-# INFO_550_FINAL_PROJECT
 # Topic : N-Queens Problem Solver
 This repository contains a set of Python implementations for solving the N-Queens problem using various Constraint Satisfaction Problem (CSP) algorithms. The N-Queens problem is a classic combinatorial problem that consists of placing N queens on an N x N chessboard such that no two queens threaten each other. In other words, no two queens should share the same row, column, or diagonal.
 ## Algorithms
